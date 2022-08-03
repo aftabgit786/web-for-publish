@@ -64,7 +64,7 @@ font-family: 'Ubuntu', sans-serif;
     border-radius: 9px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url('https://source.unsplash.com/900x900/?book');
+    background: rgba(0, 0, 0, 0.7) url('https://source.unsplash.com/900x900/?collage,university');
     background-size: cover;
     background-blend-mode: darken;
 
